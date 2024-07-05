@@ -9,7 +9,7 @@ const About = () => {
         </span>
         
         <p className="mt-10 text-lg text-center text-white-200 max-w-4xl">
-          Balancing work, studies, and personal life as an international student can be incredibly demanding. We understand the unique challenges you face, from managing tight schedules to meeting assignment deadlines, all while navigating a new environment. That's where we come in. At Assessment Champions, our mission is to ease your burden by taking care of your academic assessments.
+          Balancing work, studies, and personal life as an international student can be incredibly demanding. We understand the unique challenges you face, from managing work schedules to meeting assignment deadlines, all while navigating a new environment. That's where we come in. At Assessment Champions, our mission is to ease your burden by taking care of your academic assessments.
         </p>
         <br />
         <p className="mt-10 text-lg text-center text-white-200 max-w-4xl">
