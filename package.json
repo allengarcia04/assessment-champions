@@ -28,11 +28,6 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4",
     "vite": "^5.2.0"
-  },
-  "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-
+  }
 }
 
